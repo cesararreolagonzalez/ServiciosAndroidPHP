@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Servicios Android PHP</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="str_user">User</string>
+    <string name="str_password">Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="err_login">El usuario o la contraseña no son correctos</string>
+    <string name="title_activity_user_main">UserMainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
